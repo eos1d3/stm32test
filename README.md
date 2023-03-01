@@ -1,2 +1,1 @@
-# stm32test
-# stm32test
+STM32CUBE rand() test
